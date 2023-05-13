@@ -56,11 +56,11 @@
     position: fixed;
     bottom: 0;
     left: 0;
-    width: 100%;
+    width: 25%;
     background: linear-gradient(to right, #F56EB3, #460C68);
     color: #fff;
     text-align: center;
-    padding: 20px;
+    padding: 5px;
     border-radius: 700px;
   }
 
